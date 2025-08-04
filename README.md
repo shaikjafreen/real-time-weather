@@ -1,9 +1,15 @@
 API INTEGRATION
+
 COMPANY : CODTECH IT SOLUTIONS
+
 NAME : Shaik Syed Jafreen
+
 INTERN ID :CT06DG2850
+
 DOMAIN : FULL STACK WEB DEVELOPMENT
+
 DURATION : 6 WEEKS
+
 MENTOR : Neela Santhosh Kumar
 # 🌦️ real-time-weather
 
