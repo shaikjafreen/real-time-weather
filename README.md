@@ -69,8 +69,4 @@ This is a dynamic and responsive weather application built using HTML, CSS, and 
 
 ---
 
-## 👩‍💻 Author
-
-**Shaik Syed Jafreen **  
-B.Tech – Computer Science & Technology  
-MITS College, Rayachoty 
+![Image](https://github.com/user-attachments/assets/3c973447-a7c7-41d6-afec-00823eb7838e)
